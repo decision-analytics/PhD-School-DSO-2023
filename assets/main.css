@@ -106,6 +106,8 @@ td.lecturer img{width:150px; max-width:100% ; border-radius: 50%;}
 
 
 /* The Table on the Program Page */
+table.program{width:400px; margin-left:50px}
+td.topic{height: 30px;font-weight: bold;}
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
 td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0; }
@@ -113,8 +115,8 @@ td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font
 td.speaker{padding: 4px 12px 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
 td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
-table.plenary{padding-top: 8px; background: #ffffff;}
-
+td.time{ width:150px; text-align:right; padding-right: 20px; font-weight: bold;}
+td.break{font-style: italic;  padding-left: 100px; height: 30px;}
 /* Registration and Directions iframes and Images */
 iframe.registration{display:block; margin:1em auto 2em auto; width:700px; height:1400px; border:none;}
 iframe.directions{display:block; margin:1em auto 2em auto; width:800px; height:400px; border:none;}
