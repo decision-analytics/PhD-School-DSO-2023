@@ -47,6 +47,7 @@ h1{font-size:2.67em;}
 h2{font-size:2.00em;}
 h3{font-size:1.67em;}
 h4{font-size:1.33em;}
+h5{padding-left: 10px; font-size:1.15em;}
 p{ margin:24px auto 24px auto; padding:0px; width:900px; text-align:left;}
 li a, p a {text-decoration:underline; text-decoration-color:#52739e;}
 ul{list-style:none; margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
@@ -106,7 +107,7 @@ td.lecturer img{width:150px; max-width:100% ; border-radius: 50%;}
 
 
 /* The Table on the Program Page */
-table.program{width:400px; margin-left:50px}
+table.program{width:800px; margin-left:50px}
 td.topic{height: 30px;font-weight: bold;}
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
@@ -115,8 +116,8 @@ td.title-special{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font
 td.speaker{padding: 4px 12px 4px 4px; font-style: italic; font-size:1em; max-height:999999px}
 td.abstract{padding: 4px 12px 12px 4px; font-size:1em; max-height:999999px}
 td.abstract img{display: block; margin: 4px auto 8px auto}
-td.time{ width:150px; text-align:right; padding-right: 20px; font-weight: bold;}
-td.break{font-style: italic;  padding-left: 100px; height: 30px;}
+td.time{ width:100px; text-align:right; padding-right: 20px;}
+td.break{font-style: italic;  padding-left: 60px; height: 30px;}
 /* Registration and Directions iframes and Images */
 iframe.registration{display:block; margin:1em auto 2em auto; width:700px; height:1400px; border:none;}
 iframe.directions{display:block; margin:1em auto 2em auto; width:800px; height:400px; border:none;}
