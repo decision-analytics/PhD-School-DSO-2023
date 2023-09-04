@@ -107,7 +107,7 @@ td.lecturer img{width:150px; max-width:100% ; border-radius: 50%;}
 
 
 /* The Table on the Program Page */
-table.program{width:800px; margin-left:50px}
+table.program{width:1000px; margin-left:50px}
 td.topic{height: 30px;font-weight: bold;}
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
