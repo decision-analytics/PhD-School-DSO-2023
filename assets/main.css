@@ -109,6 +109,7 @@ td.lecturer img{width:150px; max-width:100% ; border-radius: 50%;}
 /* The Table on the Program Page */
 table.program{width:1000px; margin-left:50px}
 td.topic{height: 30px;font-weight: bold;}
+td.stud_pres{height: 30px}
 td.room{padding: 4px 12px 4px 4px; width: 90%; vertical-align:bottom; font-size:1.67em; color: #52739e; height:32px;}
 td.date{white-space:nowrap; width:130px; text-align:right; vertical-align:top; padding:4px 16px 0px 0px;}
 td.title{padding: 4px 12px 4px 4px; width: 90%; vertical-align:top; font-size:1.5em; color: #813c54; height:32px; font-family:'Roboto Slab',serif; text-shadow: 1px 1px 2px #d0d0d0; }
