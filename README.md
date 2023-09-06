@@ -24,3 +24,15 @@ Slides, part 2:  [![pdf](http://wwwimages.adobe.com/content/dam/acom/en/legal/im
 Slides, part 3:  [![pdf](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png)](https://github.com/decision-analytics/PhD-School-DSO-2023/blob/main/Tuesday/DSO_Summer_School_Part_3_SMAC3.pdf?raw=true)
 
 Jupyter Notebook:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/decision-analytics/PhD-School-DSO-2023/blob/main/Tuesday/SMAC_DSO_Bielefeld.ipynb)
+
+
+## Wednesday: Optimization in Machine Learning (Yingqiuan, Sicco Verwer)
+
+Slides:  [![pdf](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png)](https://github.com/decision-analytics/PhD-School-DSO-2023/blob/main/Wednesday/DecisionTreeOptimization_VerwerZhang_2023.pdf?raw=true)
+
+
+Jupyter Notebook Optimize:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/decision-analytics/PhD-School-DSO-2023/blob/main/Wednesday/lab_optimize.ipynb)
+
+Jupyter Notebook Learning Tree:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/decision-analytics/PhD-School-DSO-2023/blob/main/Wednesday/learning_tree_lab.ipynb)
+
+
