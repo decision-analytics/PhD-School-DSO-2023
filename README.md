@@ -39,4 +39,6 @@ Jupyter Notebook Learning Tree:  [![Open In Colab](https://colab.research.google
 
 Slides:  [![pdf](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png)](https://github.com/decision-analytics/PhD-School-DSO-2023/blob/main/Thursday/Instance_Space_Analysis.pdf?raw=true)
 
+## Friday: A third dimension for characterising algorithms: spatial properties (Dimitri Papadimitriou)
 
+Slides: [![pdf](http://wwwimages.adobe.com/content/dam/acom/en/legal/images/badges/Adobe_PDF_file_icon_32x32.png)](https://github.com/decision-analytics/PhD-School-DSO-2023/blob/main/Friday/DSO_2023_Papadimitriou.pdf?raw=true)
